@@ -1,2 +1,2 @@
 # vf-deploy
-Deployment for virtual flow
+Deployment for Virtual Flow
