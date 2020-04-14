@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+sudo yum -y install bc
+sudo yum -y install openbabel
+
